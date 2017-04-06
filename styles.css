@@ -1,0 +1,87 @@
+h1 {
+  font-family: serif;
+  text-align: center;
+  color: black;
+  font-size:48px;
+  font-family: 'Playfair Display', serif;
+  background:"new-york-city-nyc-skyline-midtown-manhattan-at-night-black-and-white-jon-holiday";
+  
+}
+h2 {
+  font-family: 'Glegoo', serif;
+  text-align: center;
+  color: darkgray;
+}
+
+  
+
+body {
+ font-family: sans-serif;
+  background-color:	#FFFAF0;
+  text-align: center;
+  
+  
+  
+  
+}
+iframe {
+  Width: 1000px;
+  margin: auto;
+  display: block;
+  align-content: center;
+  
+}
+
+p {
+  font-family: inherit;
+  text-align: center;
+  font-family: serif;
+  
+}
+
+p1 {
+ text-align: justify;
+}
+    
+p2 {
+  text-align: justify;
+  color: red;
+}
+
+p3 {
+  text-align: justify;
+  color: green;
+}
+
+p4 {
+  text-align: justify;
+  color:saddlebrown;
+}
+
+p5 {
+  text-align: justify;
+  color: yellow;
+}
+
+p6 {
+  text-align: justify;
+  color: skyblue;
+}
+
+p7 {
+  text-align: justify;
+  color: black;
+}
+
+img {
+  resize: 10px;
+  
+}
+    
+  
+    
+    
+  
+    
+  
+  
